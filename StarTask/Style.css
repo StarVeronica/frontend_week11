@@ -1,0 +1,30 @@
+h1, h3, p {
+    font-family: 'Roboto', sans-serif;
+}
+
+#btn {
+    height: 50px;
+    padding: 10px;
+    color: aliceblue;
+    background-color: rgb(28, 91, 42);
+    border: 1px solid rgb(28, 91, 42);
+    border-radius: 4px;
+}
+
+.click {
+    background-color: cadetblue;
+    border: 2px solid red;
+}
+
+.total_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#total {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 30px;
+}
